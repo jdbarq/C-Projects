@@ -1,0 +1,30 @@
+------- cpptestscan v.10.6.2.20230620B3692 (cpptesttrace) -------
+working_dir=C:\Users\James\Desktop\C-Projects\Connectfour-folder
+project_name=connect four
+arg=C:\cygwin64\bin\g++.exe
+arg=-Wall
+arg=-g
+arg=-c
+arg=main.cpp
+arg=-o
+arg=main.o
+------- cpptestscan v.10.6.2.20230620B3692 (cpptesttrace) -------
+working_dir=C:\Users\James\Desktop\C-Projects\Connectfour-folder
+project_name=connect four
+arg=C:\cygwin64\bin\g++.exe
+arg=-Wall
+arg=-g
+arg=-c
+arg=testfile.cpp
+arg=-o
+arg=testfile.o
+------- cpptestscan v.10.6.2.20230620B3692 (cpptesttrace) -------
+working_dir=C:\Users\James\Desktop\C-Projects\Connectfour-folder
+project_name=connect four
+arg=C:\cygwin64\bin\g++.exe
+arg=-Wall
+arg=-g
+arg=main.o
+arg=testfile.o
+arg=-o
+arg=output
